@@ -1,0 +1,13 @@
+#thewindow {
+   position:relative;
+   width:180;
+   height:150;
+   overflow:hidden;
+   border: 2px solid red;
+}
+#thetext {
+   position: absolute;
+   width: 170;
+   left: 5;
+   top: 100;
+}

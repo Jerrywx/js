@@ -1,0 +1,12 @@
+.drag {
+   position: absolute;
+   width: 150px;
+   border: 2px solid black;
+   border-top: 20px solid black;
+   top: 100px;
+   padding: 5px;
+}
+#drag1 { left: 20px; }
+#drag2 { left: 190px; }
+#drag3 { left: 360px; }
+#drag4 { left: 530px; }

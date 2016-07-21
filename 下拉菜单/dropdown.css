@@ -1,0 +1,26 @@
+/* The whole menu */
+#menu {
+   position: absolute;
+}
+/* Each menu name */
+#menu li {
+   float: left;
+   list-style-type: none;
+   padding-right: 20px;
+   width: 100px;
+   background-color: silver;
+}
+/* The entire submenu */
+#menu li ul {
+   background-color: silver;
+   margin: 0px;
+   padding: 0px;
+}
+/* Each submenu item */
+#menu li ul li {
+   padding: 0px;
+   margin: 0px;
+   float: none;
+   list-style-type: none;
+   width: 80px;
+}
